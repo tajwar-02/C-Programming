@@ -1,0 +1,17 @@
+# C/C++ object files
+*.o
+*.obj
+
+# Executables (optional)
+# *.exe
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code workspace settings (optional)
+.vscode/
