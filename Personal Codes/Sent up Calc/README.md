@@ -6,4 +6,4 @@ Enjoy the result :)
 
 ## 📸 Preview
 
-[Calculator Preview](Sent up Calc/Calculator_Preview.jpg)
+![Calculator Preview](Sent up Calc/Calculator_Preview.jpg)
