@@ -1,0 +1,16 @@
+C-Programming/
+│
+├── README.md
+│
+├── Calculator/
+│   ├── calculator.c
+│   ├── calculator.exe
+│   ├── README.md
+│   └── screenshots/
+│       └── calculator-preview.png
+│
+├── Other-Programs/
+│   ├── program1.c
+│   └── program2.c
+│
+└── .gitignore
